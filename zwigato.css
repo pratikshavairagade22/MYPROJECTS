@@ -1,0 +1,96 @@
+body{
+    background-color: black;
+    font-size: medium;
+    font-style: italic;
+     color: azure;
+}
+.mainbody{
+    font-size: 50px;
+    padding: 50px,50px,50px,50px;
+    font-weight: 200;
+    
+}
+.btn{
+    background-color: black;
+    color: azure;
+    padding: 5px,10px;
+    font-size: 21px;
+    top: 7px;
+    right: 500px;
+    position: absolute;
+    border: none;
+    cursor: pointer;
+}
+.btn2{
+    background-color: black;
+    color: azure;
+    padding: 5px,10px;
+    font-size: 21px;
+    top: 7px;
+    right: 400px;
+    position: absolute;
+    border: none;
+    cursor: pointer;
+}
+.btn3{
+    background-color: black;
+    color: azure;
+    padding: 5px,10px;
+    font-size: 21px;
+    top: 7px;
+    right: 300px;
+    position: absolute;
+    border: none;
+    cursor: pointer;
+}
+.btn4{
+    background-color: black;
+    color: azure;
+    padding: 5px,10px;
+    font-size: 21px;
+    top: 7px;
+    right: 200px;
+    position: absolute;
+    border: none;
+    cursor: pointer;
+}
+.btn5{
+    background-color: black;
+    color: azure;
+    padding: 5px,10px;
+    font-size: 21px;
+    top: 7px;
+    right: 50px;
+    position: absolute;
+    border: none;
+    cursor: pointer;
+}
+.subtxt{
+    color: darkgoldenrod;
+    font-size: 40px;
+    position: absolute;
+    top: 110px;
+    right: 100px;
+    text-align: right;
+}
+.subtxt2{
+    color: beige;
+    font-size:20px ;
+    top: 120px;
+    right:100px;
+    text-align: right;
+   position: absolute;
+}
+.mainbtn{
+    background-color: darkred;
+    color: aliceblue;
+    padding: 5px,10px;
+    font-size: 21px;
+    top: 300px;
+    right: 300px;
+    position: absolute;
+    border: 2px;
+    border-color: beige;
+    border-radius:2px;
+    cursor: pointer;
+}
