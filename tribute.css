@@ -1,0 +1,96 @@
+body{
+    background-color: dimgray;
+    color: rgb(8, 1, 0);
+}
+.heading{
+    font-style: italic;
+    font-size: 33px;
+    font-weight: 900;
+    top: 7px;
+    right:650px;
+    position: absolute;
+}
+#image{
+    top: 100px;
+    right: 300px;
+    padding: 50px,50px,50px,50px;
+    position: absolute;
+    height: 500px;
+    width: 800px;
+    border: 4px solid;
+    border-radius: 18px;
+    border-color: black;
+}
+#subtxt{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: 800;
+    top: 600px;
+    left: 100px;
+    position: absolute;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+#Birth{
+    font-size: 20px;
+    font-weight: 300;
+    top: 670px;
+    left: 100px;
+    position: absolute;
+} 
+#Career{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: 800;
+    top: 900px;
+    left: 100px;
+    position: absolute;
+    text-decoration: underline;
+    text-decoration-color: black; 
+}
+#cr{
+    font-size: 20px;
+    font-weight: 300;
+    top: 950px;
+    left: 100px;
+    position: absolute; 
+}
+#ms{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: 800;
+    top: 1200px;
+    left: 100px;
+    position: absolute;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+#man{
+    font-size: 20px;
+    font-weight: 300;
+    top: 1250px;
+    left: 100px;
+    position: absolute; 
+}
+#death{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 27px;
+    font-weight: 800;
+    top: 1400px;
+    left: 100px;
+    position: absolute;
+    text-decoration: underline;
+    text-decoration-color: black;
+  
+}
+#dd{
+    font-size: 20px;
+    font-weight: 300;
+    top: 1460px;
+    left: 100px;
+    position: absolute;  
+}
+
+
+
+
